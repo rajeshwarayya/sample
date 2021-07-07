@@ -1,3 +1,5 @@
 Docker EE --> Commerical
    DTR --> Docker Trusted Registry(Private Repo to main docker images)
    UCP --> Universal Controll Pane --> It's GUI for managing Docker Machines
+Public Repo --> Docker hub is a public reposotiry. Which contains all the open source softwares as 
+a docker images. We can think of docker hub as play store for docker images.
