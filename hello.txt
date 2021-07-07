@@ -1,3 +1,9 @@
 Docker EE --> Commerical
    DTR --> Docker Trusted Registry(Private Repo to main docker images)
    UCP --> Universal Controll Pane --> It's GUI for managing Docker Machines
+Docker EE --> Commerical
+   DTR --> Docker Trusted Registry(Private Repo to main docker images)
+   UCP --> Universal Controll Pane --> It's GUI for managing Docker Machines
+Docker EE --> Commerical
+   DTR --> Docker Trusted Registry(Private Repo to main docker images)
+   UCP --> Universal Controll Pane --> It's GUI for managing Docker Machines
